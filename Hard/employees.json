@@ -1,0 +1,64 @@
+{
+    "employees" : [
+      {
+        "id" : 1,
+        "name" : "Jojo Sweet",
+        "salary" : 23000,
+        "department" : "Janitor"
+      },
+      {
+        "id" : 2,
+        "name" : "Tiffany Block",
+        "salary" : 200000,
+        "department" : "General Evaluator"
+      },
+      {
+        "id" : 3,
+        "name" : "Dog Meat",
+        "salary" : 10000,
+        "department" : "Pro Skater"
+      },
+      {
+        "id" : 4,
+        "name" : "Mamba Heat",
+        "salary" : 40000,
+        "department" : "IT"
+      },
+      {
+        "id" : 5,
+        "name" : "Chef Jr",
+        "salary" : 90000,
+        "department" : "Chef"
+      },
+      {
+        "id" : 6,
+        "name" : "Juice Boy",
+        "salary" : 40000,
+        "department" : "Rapper"
+      },
+      {
+        "id" : 7,
+        "name" : "Billy Jean",
+        "salary" : 20000,
+        "department" : "Scientist"
+      },
+      {
+        "id" : 8,
+        "name" : "Andre Big",
+        "salary" : 50000,
+        "department" : "Starbucks"
+      },
+      {
+        "id" : 9,
+        "name" : "Tammy Joins",
+        "salary" : 30000,
+        "department" : "Construction"
+      },
+      {
+        "id" : 10,
+        "name" : "Bob Bob",
+        "salary" : 100000,
+        "department" : "Doctor"
+      }
+    ]
+  }
